@@ -7,7 +7,7 @@ Ionic es un kit de desarrollo de programa open source para el desarrollo de apli
 con un solo código base, permite crear un programa multiplataforma. 
 Su objetivo es facilitar el trabajo del desarrollador.
 
-Capacitor in un software de desarrollo open source para crear aplicaciones web
+Capacitor es un kit de desarrollo open source que sirve para crear aplicaciones web
 nativas multiplataforma, Android, iOS, haciendo uso de JavaScript, HTML y CSS.
 
 Ionic is an open source program development kit for mobile application development that,
